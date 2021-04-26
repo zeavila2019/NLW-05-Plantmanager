@@ -6,7 +6,7 @@
 
 
 
-#Install
+# Install
 
 $ git clone https://github.com/ORG/PROJECT.git
 $ cd PROJECT
@@ -16,7 +16,7 @@ Start & watch
 
 $ npm start
 
-#Tecnologias
+# Tecnologias utilizadas
 
 React-Native
 Typescript
