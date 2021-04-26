@@ -8,7 +8,7 @@
 
 # Install
 
-$ git clone https://github.com/ORG/PROJECT.git
+$ git clone https://github.com/zeavila2019/NLW-05-Plantmanager.git
 $ cd PROJECT
 $ npm install
 
@@ -18,7 +18,9 @@ $ npm start
 
 # Tecnologias utilizadas
 
-React-Native
-Typescript
-Expo
+## React-Native
+
+## Typescript
+
+## Expo
 
