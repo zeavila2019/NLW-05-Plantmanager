@@ -1,4 +1,5 @@
-# NLW-05-Plantmanager
+# NLW-05-Plantmanager 🌱
+![image](https://user-images.githubusercontent.com/54275870/116141971-bcaeec00-a6af-11eb-80cc-fc0dd30bde7b.png)
 
 #Install
 
