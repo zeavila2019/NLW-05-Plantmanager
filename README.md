@@ -10,7 +10,7 @@
 
 
 # NLW-05-Plantmanager 🌱
-## Esse App foi desenvolvido para quem gosta de plantas em casa,sua finalidade é auxiliar as pessoas a cuidar de suas plantas,sempre lembrando de quando deve ser regadas.
+### Esse App foi desenvolvido para quem gosta de plantas em casa,sua finalidade é auxiliar as pessoas a cuidar de suas plantas,sempre lembrando de quando deve ser regadas.
 
 
 
