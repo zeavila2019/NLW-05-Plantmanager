@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/54275870/116141971-bcaeec00-a6af-11eb-80cc-fc0dd30bde7b.png)
 ![image](https://user-images.githubusercontent.com/54275870/116142180-f8e24c80-a6af-11eb-85cb-eedff91c5dfd.png)
+![image](https://user-images.githubusercontent.com/54275870/116238420-b3696200-a737-11eb-8355-bb78aa01d2a1.png)
+
 
 # NLW-05-Plantmanager 🌱
 ## Esse App foi desenvolvido para quem gosta de plantas em casa,sua finalidade é auxiliar as pessoas a cuidar de suas plantas,sempre lembrando de quando deve ser regadas.
